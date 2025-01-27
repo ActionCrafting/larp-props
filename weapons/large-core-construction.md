@@ -1,17 +1,42 @@
+# TOC
+
+* [🔙Back](../ReadMe.md)
+* [The solid core](#the-solid-core)
+* [The dense foam core](#the-dense-foam-core)
+* [The striking edges](#the-striking-edges)
+* [Final cross section view](#final-cross-section-view)
+* [Painting](#painting)
+* [Destructive testing](#destructive-testing)
+
+# Overview
+
+This page is written somewhat in the style of a tutorial, but is solely meant to document our processes for review.
+
+In this document, we are constructing a large prop, such as a sword, which would by unacceptably floppy without a solid core of some kind. The core should be lightweight, strong and safe.
+
+From the inside out, we will build:
+
+1. A solid core with composite layers
+2. A dense foam layer enclosing the core
+3. A soft foam layer for safe combat play
+4. Surface finishes
 
 # The solid core
 
-> This is the only obviously-dangerous part of the prop, so most precautions occur here.
+> ⚠ This is the only obviously-dangerous part of the prop, so most precautions occur here.
 
-Our stock material is a 14mm fibreglass tube. It has a thin plastic coating, so the diameter is closer to 13mm if this is peeled back. The wall thickness is about 2.5mm.
+Our stock material is a 14mm hollow fibreglass tube. It is coated in a thin plastic sheath, so the diameter is closer to 13mm if this was removed. The wall thickness is about 2.5mm.
+
+The "hollow tube" form-factor is more rigid than a "solid rod" form, which is useful for very long props. Shorter props may be better suited to solid rods instead.
 
 Our objective in preparing the solid core is twofold:
-1. In case of the event where the core escapes the weapon, mitigate the danger of its hard ends, by wrapping them in softer materials.
+1. In a situation where the core escapes the weapon, mitigate the danger of its hard ends, by wrapping them in protective materials.
 2. Reduce the chances of the core abrading or piercing its way out of the weapon in the first place, by placing abrasion-resistant and tear-resistant layers along its path.
 
 ![](./images/1.jpg "The end of our fibreglass rod")
 
 ### Layer 1: Hard plastic
+
 An initial hard layer is added to act as an immediate abrasion barrier and "cap" to contain the cut ends of the fibreglass material.
 
 The stock material that I have comes with hard plastic end-caps from the factory, which are useful for us to keep here:
@@ -21,11 +46,12 @@ The stock material that I have comes with hard plastic end-caps from the factory
 ![](./images/3.jpg "Factory end-cap, in place")
 
 ### Layer 1 alternative: DIY Hard plastic
-Without a pre-made hard plastic stopper, we can craft one with a "3D printer pen" and a sanding device:
+
+Without a pre-made hard plastic stopper, we can craft one with a "3D printer pen" and sandpaper:
 
 ![](./images/6.jpg "A 3D printer pen")
 
-An initial application of plastic will be quite messy, but by alternating between applying plastic, compressing it (with a heat-proof glove) and sanding the result to expose any flaws, we can produce a solid block to contain the end of the fibreglass:
+An initial application of plastic will be quite messy, but by alternating between applying plastic, compressing it (with a heat-proof glove) and sanding the result to expose any flaws, we can quickly produce a solid cap that contains the end of the fibreglass and acts as an initial abrasion barrier.
 
 ![](./images/8.jpg "After one coat")
 
@@ -33,7 +59,10 @@ An initial application of plastic will be quite messy, but by alternating betwee
 
 ![](./images/9.jpg "After several coats (sanded in-between)")
 
+The finished cap can be permanently affixed with a small amount of superglue or epoxy.
+
 ### Layer 2: Fibreglass tape
+
 The next line of defence is fibreglass reinforced tape, which is highly resistant to tearing. We build up several layers of tape along three different axes to secure the end of the core. A very small amount of superglue (CA) or epoxy is used on the edges of the tape to mitigate future peeling.
 
 ![](./images/4.jpg "One layer of tape")
@@ -42,13 +71,13 @@ The next line of defence is fibreglass reinforced tape, which is highly resistan
 
 ![](./images/10.jpg "Multiple layers over home-made end-cap")
 
-### Layer 3: Fabric
+### Layer 3: Fabric (and more fibreglass)
 
-In the unlikely case that the previous layers wear through, an abrasion resistant fabric layer is added. Ideally Kevlar is used here, but in these photographs, upcycled denim is used as a more readily available alternative (*note that denim sourced in this way will vary* greatly *in quality and properties, so samples should be tested for abrasion resistance before use*). Glues should be avoided here as they may change the properties of the fabric unpredictable, such as making it brittle and prone to cracking.
+In the unlikely case that the previous layers wear through, an abrasion resistant fabric layer is added. Ideally Kevlar is used here, but in these photographs, upcycled denim is used as a more readily available alternative (*note that denim sourced in this way will vary* greatly *in quality and properties, so samples should be tested for abrasion resistance before use*). Glues should be avoided here as they may unpredictably change the properties of the fabric, such as making it brittle and prone to cracking.
 
-The fabric is secured in place with another 3+ layers of fibreglass tape.
+The fabric is secured in place with another 3+ layers of fibreglass tape (aligned in 3 different orientations).
 
-> ⚠ If glue is used to mitigate tape peeling as before, only flexible glue (*such as for shoe repairs*) is used *on the outermost layer of tape only* to reduce the likelihood that the fabric is affected.
+> ⚠ If glue is used to mitigate tape peeling as before, we must reduce the likelihood that the fabric is affected. Glue must be used *only on the outermost layer of tape* and *of a flexible type (such as for shoe repair)*.
 
 ![](./images/11.jpg "Fabric and fibreglass over our DIY end-cap")
 
@@ -56,6 +85,8 @@ The fabric is secured in place with another 3+ layers of fibreglass tape.
 
 ### Layer 4: Dense, soft plastic
 The above layers alone are probably enough to prevent the core from ever wearing through the prop, but a "chair leg protector" is added as a last line of defence. These are usually a flexible but hard-wearing plastic designed to resist a lot of abrasion. This final layer can be held in place with a flexible glue, such as "shoe" glues, or "wet cured" contact cement.
+
+There are many kinds of these devices available, allowing them to be used in every prop design (*e.g. the largest "soft rubber" kind can when space is available, and smaller "hard rubber" kinds can be used when space constraints are tight*).
 
 ![](./images/12.jpg "A small, clear chair leg protector")
 
@@ -111,9 +142,9 @@ The prop is now reduced to approximate size and shape using a belt sander, power
 
 # The striking edges
 
-> Constructing an entire weapon from dense EVA foam is possible if your opponents are OK with a very firm hit... but softer is better.
+> Constructing an entire weapon from dense EVA foam is possible ***if*** your opponents are OK with a very firm hit... but softer is better.
 > 
-> Also, if too much contact cement has been used, it can result in inconsistent flexibility between layers (tough zones), giving another reason to specially prepare surfaces meant for striking.
+> Also, contact cement can result in inconsistent flexibility between layers (tough zones), giving another reason to specially prepare surfaces meant for striking.
 
 To provide a safer striking surface, the dense foam layers are now shaped approximately one inch (2.5 cm) smaller than the final design. A sample of low density foam slightly larger than required is prepared to replace the striking edge.
 
@@ -139,4 +170,18 @@ After curing, the skin can be trimmed and any gaps filled with air-drying foam c
 
 # Final cross section view
 
-![](./images/28.jpg "Cross section of the entire process")
+![](./images/31.jpg "Cross section of the entire process")
+
+# Painting
+
+All surfaces are lightly sanded and cleaned.
+
+Liquid latex is mixed with *up to* 50% acrylic paint. A lower percentage of paint requires more layers, but provides better cushioning and strength. If lower viscosity is required, up to one third distilled water can be added to the latex/paint mix, but will increase drying times.
+
+Thin layers of this paint are applied with a sponge brush, and allowed to air-dry (below 50°C) between successive coats.
+
+For non-combat props, a cheaper alternative recipe is: PVA glue **or** Acrylic sealant with *up to* 50% acrylic paint as a base layer (*the paint helps to visually confirm full coverage*), followed by any successive paint types once the base is fully dry. Several coats of the base layer recipe will provide a tougher skin.
+
+# Destructive testing
+
+to do - post the science!
